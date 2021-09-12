@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Note Taker
 ## Description
-### This is an Express.js powered note taking app. This app is meant for anyone looking to write, save, and delete notes in a simple and intuitive setting. The bonus for this assignment was something I had some issues with. I was able to delete individual notes and update the remaining note's ids, however, the effect wouldn't render until the page is reloaded. A work around I found was to reload the window on the click event. I am sure there is a more effecient way of rendering the delete change, I will continue trying other methods and will update this part of the readme when I find a better way.
+### This is an Express.js powered note taking app. This app is meant for anyone looking to write, save, and delete notes in a simple and intuitive setting. The bonus for this assignment was something I had some issues with. I was able to delete individual notes and update the remaining note's ids, however, the effect wouldn't render until the page is reloaded. A work around I found was to reload the window on the click event. I am sure there is a more effecient way of rendering the delete change. I will continue trying other methods and will update this part of the readme when I find a better way.
 <br><br>
 # Table of Contents
 1. [Installation](#installation)
